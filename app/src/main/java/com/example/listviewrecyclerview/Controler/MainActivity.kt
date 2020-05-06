@@ -1,7 +1,8 @@
-package com.example.listviewrecyclerview
+package com.example.listviewrecyclerview.Controler
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.listviewrecyclerview.R
 
 class MainActivity : AppCompatActivity() {
 
